@@ -1,6 +1,6 @@
 # LOBITO BUAP APP INVENTOR PROYECTO 1
 
-![VISTA](imagen1.png)
+![VISTA](Imagen1.png)
 
 Esta es la vista previa en app inventor consta de los siguientes elementos:  
 \-Imagen
@@ -17,7 +17,7 @@ Esta es la vista previa en app inventor consta de los siguientes elementos:
 
 ## BLOQUES DE APP INVENTOR
 
-![BLOQUES](imagen2.png)
+![BLOQUES](Imagen2.png)
 
 ## 
 
