@@ -1,6 +1,6 @@
 # LOBITO BUAP APP INVENTOR PROYECTO 1
 
-![Captura de pantalla de computadora Descripción generada automáticamente](media/a2ab91e502786967f01bea1d931180fb.png)
+![VISTA](imagen1.png)
 
 Esta es la vista previa en app inventor consta de los siguientes elementos:  
 \-Imagen
@@ -17,7 +17,7 @@ Esta es la vista previa en app inventor consta de los siguientes elementos:
 
 ## BLOQUES DE APP INVENTOR
 
-![Captura de pantalla de un celular Descripción generada automáticamente](media/a7c68a39a0fb336f69d75a5876d0dad8.png)
+![BLOQUES](imagen2.png)
 
 ## 
 
